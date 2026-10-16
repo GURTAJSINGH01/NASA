@@ -19,4 +19,6 @@ func main() {
 
 	fmt.Println(decide)
 
+	/// this concept is called the zero values
+
 }
