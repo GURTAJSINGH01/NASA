@@ -1,0 +1,1 @@
+fmt.Println(num[2:4])
